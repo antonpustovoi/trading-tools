@@ -1,3 +1,3 @@
-Application for managing goods on my.checkbox.ua
+Trading tools
 
-https://antonpustovoi.github.io/checkbox-products-editor/
+https://antonpustovoi.github.io/trading-tools/
