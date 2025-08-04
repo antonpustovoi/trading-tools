@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "allowJs": true,
+    "noEmit": true,
+    "jsx": "react-jsx"
+  }
+}
