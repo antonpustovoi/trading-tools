@@ -17,6 +17,7 @@
   "devDependencies": {
     "@eslint/js": "9.32.0",
     "@pigment-css/vite-plugin": "0.0.30",
+    "@vite-pwa/assets-generator": "1.0.0",
     "@vitejs/plugin-react-swc": "3.11.0",
     "eslint": "9.32.0",
     "eslint-config-prettier": "10.1.8",
@@ -37,7 +38,8 @@
   },
   "scripts": {
     "start": "vite --config ./vite.config.js",
-    "build": "vite build --config ./vite.config.js"
+    "build": "vite build --config ./vite.config.js",
+    "generate-pwa-assets": "pwa-assets-generator"
   },
   "browserslist": {
     "production": [
