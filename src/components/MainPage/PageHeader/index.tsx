@@ -6,13 +6,17 @@ export function PageHeader() {
       container
       alignItems="center"
       sx={{
-        backgroundColor: "#161B25",
-        padding: "32px 48px",
+        backgroundColor: "#002C1D",
+        padding: "16px 48px",
         color: "#FFF",
         fontSize: "24px",
         fontWeight: "bold",
       }}
     >
+      <img
+        src="./trading-tools/favicon.png"
+        sx={{ height: "60px", width: "60px", marginRight: "12px" }}
+      />
       Trading Tools
     </Grid>
   );
