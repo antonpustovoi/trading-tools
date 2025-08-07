@@ -14,7 +14,7 @@ export function PageHeader() {
       }}
     >
       <img
-        src="./trading-tools/favicon.png"
+        src="/trading-tools/favicon.png"
         sx={{ height: "60px", width: "60px", marginRight: "12px" }}
       />
       Trading Tools
